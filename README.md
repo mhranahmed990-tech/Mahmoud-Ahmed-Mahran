@@ -4,7 +4,7 @@
 
 # Hi, I'm Mahmoud Ahmed Mahran 👋
 
-### 🚀 Digital Twin Engineer | AI Engineer | Industrial IoT Engineer | Unity Developer
+### 🚀 Digital Twin Engineer | Gen AI Engineer | Industrial IoT Engineer 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Digital+Twin+Engineer;Generative+AI+Engineer;Machine+Learning+Engineer;Deep+Learning+Engineer;Reinforcement+Learning+Researcher;Industrial+IoT+Engineer;Unity+3D+Developer"/>
 
@@ -27,9 +27,9 @@ I'm a multidisciplinary engineer specializing in:
 - 🧠 Machine Learning & Deep Learning
 - 🎯 Reinforcement Learning
 - 📡 Industrial IoT
-- 🎮 Unity Simulation & XR
+- 🎮 Unity Simulation 
 - 🔄 Predictive Maintenance
-- 🦾 Robotics & ROS2
+
 
 My mission is to bridge the physical world and intelligent virtual systems for Industry 4.0.
 
@@ -84,6 +84,11 @@ My mission is to bridge the physical world and intelligent virtual systems for I
 - MQTT
 - Modbus
 
+### IoT Protocols
+ - HTTP/HTTPs
+ - WebSocket
+ - CoAP
+
 ### Edge Computing
 
 - Node-RED
@@ -100,7 +105,6 @@ My mission is to bridge the physical world and intelligent virtual systems for I
 
 - Unity 3D
 - ROS2
-- XR
 - Robotics Simulation
 
 ---
