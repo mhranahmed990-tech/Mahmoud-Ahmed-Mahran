@@ -1,190 +1,322 @@
+<div align="center">
+
+<img src="./assets/profile.png" width="220">
+
 # Hi, I'm Mahmoud Ahmed Mahran 👋
 
-<p align="center">
-  <img src="https://komarev.github-profile-visitor-counter.pages.dev/counter/?username=mahmoud-mahran&color=00e5ff&style=flat-square&label=PROFILE%20VIEWS" />
-</p>
+### 🚀 Digital Twin Engineer | AI Engineer | Industrial IoT Engineer | Unity Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Digital+Twin+Engineer;Generative+AI+Engineer;Machine+Learning+Engineer;Deep+Learning+Engineer;Reinforcement+Learning+Researcher;Industrial+IoT+Engineer;Unity+3D+Developer"/>
+
+</div>
+
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Digital+Twin+Engineer;Generative+AI+Engineer;Industrial+IoT+Engineer;Unity+3D+Developer" />
+<img src="https://komarev.com/ghpvc/?username=mhranahmed990-tech&color=blueviolet&style=for-the-badge">
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I'm a **Digital Twin Engineer**, **Generative AI Engineer**, and **Industrial IoT Engineer** passionate about building intelligent cyber-physical systems.
+I'm a multidisciplinary engineer specializing in:
 
-I specialize in:
+- 🏭 Digital Twins
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning & Deep Learning
+- 🎯 Reinforcement Learning
+- 📡 Industrial IoT
+- 🎮 Unity Simulation & XR
+- 🔄 Predictive Maintenance
+- 🦾 Robotics & ROS2
 
-- 🏭 Digital Twin Systems
-- 🤖 Generative AI & Agentic Workflows
-- 📡 Industrial IoT Architectures
-- 🎮 Unity 3D Simulation and XR Applications
-- 📈 Predictive Maintenance & Monitoring Systems
-
-My goal is to bridge the physical and virtual worlds through real-time industrial intelligence.
+My mission is to bridge the physical world and intelligent virtual systems for Industry 4.0.
 
 ---
 
-## 🛰️ Core Expertise
+# 🧠 Artificial Intelligence
 
-### 🌀 Digital Twin Engineering
+## Machine Learning
 
-- Real-time telemetry synchronization
-- Virtual replicas of industrial assets
-- Time-series monitoring
-- Predictive maintenance dashboards
+- Regression Models
+- Classification Models
+- Ensemble Learning
+- Feature Engineering
+- Time-Series Forecasting
+- Predictive Maintenance
 
-### 🧠 Generative AI
+## Deep Learning
 
-- LLM Applications
-- Agentic AI Systems
-- RAG Pipelines
-- LangChain & LlamaIndex
-- Semantic Search Systems
+- Neural Networks
+- CNN
+- RNN
+- LSTM
+- Autoencoders
+- Transfer Learning
 
-### 🏭 Industrial IoT
+## Reinforcement Learning
+
+- Q-Learning
+- Deep Q Networks (DQN)
+- PPO
+- Policy Gradient
+- Robotics Control
+- Intelligent Agents
+
+## Generative AI
+
+- LangChain
+- LlamaIndex
+- RAG Systems
+- Multi-Agent Systems
+- OpenAI APIs
+- Vector Databases
+- Prompt Engineering
+
+---
+
+# 🏭 Digital Twin & Industrial IoT
+
+### Industrial Protocols
 
 - OPC UA
 - MQTT
 - Modbus
-- Node-RED
-- Edge Computing
-- InfluxDB & Grafana
 
-### 🎮 Unity & Simulation
+### Edge Computing
+
+- Node-RED
+- InfluxDB
+- Grafana
+
+### Real-Time Systems
+
+- Telemetry Synchronization
+- Predictive Maintenance
+- Time-Series Analytics
+
+### Simulation
 
 - Unity 3D
-- C#
+- ROS2
+- XR
 - Robotics Simulation
-- VR/AR Applications
-- Digital Factory Visualization
+
+---
+
+# 📈 Skill Matrix
+
+```text
+Artificial Intelligence      ███████████████████ 95%
+
+Machine Learning             ██████████████████ 92%
+
+Deep Learning                █████████████████ 90%
+
+Generative AI                ███████████████████ 95%
+
+Digital Twins                ███████████████████ 96%
+
+Industrial IoT               █████████████████ 90%
+
+Predictive Maintenance       █████████████████ 90%
+
+Unity Simulation             █████████████████ 90%
+
+Python                       ███████████████████ 95%
+
+ROS2                         ███████████████ 85%
+```
+
+---
+
+# ⚙ Industry 4.0 Architecture
+
+```text
+
+            Sensors / Robots
+                    ↓
+
+          OPC UA • MQTT • Modbus
+                    ↓
+
+            Edge Layer
+      Node-RED • InfluxDB • Grafana
+                    ↓
+
+             AI Models
+      ML • DL • RL • Generative AI
+                    ↓
+
+            Digital Twin
+              Unity 3D
+                    ↓
+
+       Dashboard & Monitoring
+
+```
 
 ---
 
 # 🛠 Tech Stack
 
-## Industrial IoT & Digital Twins
+## AI & Data Science
 
-![OPC UA](https://img.shields.io/badge/OPC_UA-00E5FF?style=flat-square)
-![MQTT](https://img.shields.io/badge/MQTT-39FF14?style=flat-square)
-![Modbus](https://img.shields.io/badge/Modbus-00E5FF?style=flat-square)
-![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=flat-square)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square)
+<p>
 
-## AI & Machine Learning
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv"/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-00E5FF?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square)
+</p>
 
-## Unity & 3D Development
+## Generative AI
 
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity)
-![C#](https://img.shields.io/badge/CSharp-239120?style=flat-square)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square)
-![XR](https://img.shields.io/badge/VR_AR_XR-8A2BE2?style=flat-square)
+<p>
 
-## DevOps & Robotics
+<img src="https://img.shields.io/badge/LangChain-blue?style=for-the-badge">
 
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
+<img src="https://img.shields.io/badge/LlamaIndex-black?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/OpenAI-green?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge">
+
+</p>
+
+## Industrial IoT
+
+<p>
+
+<img src="https://img.shields.io/badge/OPC_UA-blue?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/MQTT-purple?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Modbus-red?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Node_RED-darkred?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/InfluxDB-blue?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Grafana-orange?style=for-the-badge">
+
+</p>
+
+## Robotics & Simulation
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=unity,blender,cs,docker,git,cpp"/>
+
+</p>
 
 ---
 
 # 📂 Featured Projects
 
-## 🌐 Industrial Digital Twin Portal
+## 🏭 Industrial Digital Twin
 
-Real-time 3D monitoring system with predictive telemetry.
-
-**Tech Stack**
-
-- Unity
-- OPC UA
-- MQTT
-- InfluxDB
-- WebGL
-
----
-
-## 🧠 GenAI Industrial Assistant
-
-LLM-powered assistant for industrial troubleshooting using RAG and autonomous agents.
+Real-time synchronization between physical assets and virtual replicas.
 
 **Tech Stack**
 
-- Python
-- LangChain
-- LlamaIndex
-- OpenAI API
-- Docker
+Unity • OPC UA • MQTT • InfluxDB
 
 ---
 
-## 🎮 Smart Factory XR Simulation
+## 🤖 AI Industrial Assistant
 
-Immersive VR training environment for industrial operations.
+RAG-based assistant for maintenance and troubleshooting.
 
 **Tech Stack**
 
-- Unity
-- C#
-- Blender
-- ROS2
+Python • LangChain • OpenAI • Vector Database
 
 ---
 
-## 📈 Current Interests
+## 📈 Predictive Maintenance
 
-- Multi-Agent AI Systems
-- Predictive Maintenance
-- Digital Twins
-- Smart Manufacturing
-- Industrial Automation
-- Robotics Simulation
-- Edge AI
-- Real-time Monitoring Systems
+Time-series forecasting and anomaly detection for industrial robots.
+
+**Tech Stack**
+
+Python • LSTM • PyTorch • MLflow
 
 ---
 
-## 📊 GitHub Stats
+## 🎮 Smart Factory Simulation
+
+Virtual factory and robotics simulation.
+
+**Tech Stack**
+
+Unity • Blender • ROS2
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mahmoud-mahran&show_icons=true&theme=tokyonight"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mhranahmed990-tech&show_icons=true&theme=tokyonight"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mhranahmed990-tech&theme=tokyonight"/>
+
 </p>
 
+---
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-mahran&layout=compact&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhranahmed990-tech&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 🤝 Connect With Me
+# 🏆 GitHub Trophies
 
 <p align="center">
-<a href="https://github.com/mahmoud-mahran">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=mhranahmed990-tech&theme=tokyonight&column=4"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/mhranahmed990-tech">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/mahmoud-ahmed-mahran-b24162243/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+<a href="https://mahmoudmahranportofolio.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=google-chrome">
 </a>
+
 </p>
 
 ---
 
-<p align="center">
-<b>Building intelligent cyber-physical systems for Industry 4.0 🚀</b>
-</p>
+<div align="center">
+
+# ⚡ Building Intelligent Cyber-Physical Systems for Industry 4.0 ⚡
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+
+</div>
