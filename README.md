@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile.png" width="220">
+<img src="./assets/profile2.png" width="220">
 
 # Hi, I'm Mahmoud Ahmed Mahran 👋
 
