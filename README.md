@@ -1,3 +1,4 @@
+<img width="1254" height="1254" alt="60693f06-867c-4d51-baf7-95e7fd2bc8eb" src="https://github.com/user-attachments/assets/19a5f65e-139f-49ab-9f7e-0ca54e75602d" />
 <div align="center">
 
 <img src="./assets/profile.png" width="220">
